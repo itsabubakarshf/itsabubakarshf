@@ -17,7 +17,8 @@ I'm AbubakarShf, a driven and self-taught Full Stack web engineer hailing from P
 <br>
 <br>
 My expertise extends beyond just web development, as I am also well-versed in backend development, DevOps, and frontend development.
-I am a true believer in the power of open-source technology, and I have a deep appreciation for the collaborative spirit and knowledge sharing that it promotes. I have learned a great deal through my involvement <br> in the open-source community and I am always looking for new ways to give back and contribute to this vibrant ecosystem.
+I am a true believer in the power of open-source technology, and I have a deep appreciation for the collaborative spirit and knowledge sharing that it promotes. I have learned a great deal through my involvement in the open-source community and I'm always
+looking for new ways to give back and contribute to this vibrant ecosystem.
 <ul>
 <li>🧐 Learning about serverless architectures, distributed systems, tensorflow 
 and Mern Stack.</li>
