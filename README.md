@@ -12,15 +12,14 @@
 
 ## About
 
- I'm AbubakarShf, a driven and self-taught Full Stack web engineer hailing from Pakistan. I am currently a third-year undergraduate student at National Textile University, but my aspirations reach far beyond the classroom. I am a Senior FullStack Web Engineer at [WoitSolutions](https://woitsolutions.com/), where I am constantly pushing the boundaries of my skills and expanding my knowledge in the ever-evolving world of web development. My expertise extends beyond just web development, as I am also well-versed in backend development, DevOps, and frontend development.
 
+I'm AbubakarShf, a driven and self-taught Full Stack web engineer hailing from Pakistan. I am currently a third-year undergraduate student at National Textile University, but my aspirations reach far beyond the classroom. I am a Senior FullStack Web Engineer at [WoitSolutions](https://woitsolutions.com/), where I am constantly pushing the boundaries of my skills and expanding my knowledge in the ever-evolving world of web development. My expertise extends beyond just web development, as I am also well-versed in backend development, DevOps, and frontend development.
 I am a true believer in the power of open-source technology, and I have a deep appreciation for the collaborative spirit and knowledge sharing that it promotes. I have learned a great deal through my involvement in the open-source community and I am always looking for new ways to give back and contribute to this vibrant ecosystem.
-
 <ul>
 <li>🧐 Learning about serverless architectures, distributed systems, tensorflow 
 and Mern Stack.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AbubakarShf"   target="_blank">Github</a>.</li>
-<li>🥅 2021 Goals: Contribute more to Open Source projects</li>
+<li>🔥 2021 Goals: Contribute more to Open Source projects and level up my skills</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects</li>
 <li>🌐 Visit my <a href="#">porfolio</a> website for complete background and contact.</li>
 <li>💬 Ask me about Web Development</li>
@@ -35,6 +34,7 @@ and Mern Stack.</li>
 &nbsp;
 <div align="center">
   
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&redirect=true)
 
 <div>
