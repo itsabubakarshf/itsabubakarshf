@@ -12,10 +12,9 @@
 
 ## About
 
-I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://fiverr.com/GeekGiants) from Pakistan.
-I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [GeekGiants](https://www.GeekGiants.net/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
+ I'm AbubakarShf, a driven and self-taught Full Stack web engineer hailing from Pakistan. I am currently a third-year undergraduate student at National Textile University, but my aspirations reach far beyond the classroom. I am a Senior FullStack Web Engineer at [WoitSolutions](https://woitsolutions.com/), where I am constantly pushing the boundaries of my skills and expanding my knowledge in the ever-evolving world of web development. My expertise extends beyond just web development, as I am also well-versed in backend development, DevOps, and frontend development.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am a true believer in the power of open-source technology, and I have a deep appreciation for the collaborative spirit and knowledge sharing that it promotes. I have learned a great deal through my involvement in the open-source community and I am always looking for new ways to give back and contribute to this vibrant ecosystem.
 
 <ul>
 <li>🧐 Learning about serverless architectures, distributed systems, tensorflow 
@@ -31,9 +30,6 @@ and Mern Stack.</li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
 
-<!--START_SECTION:Abubakar-->
-<!--END_SECTION:Abubakar-->
-<!-- <p align="center" height='200px'><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarshf&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="AbubakarShf"/> </p> -->
 
 <h2 align="center">🎧 I'm currently vibing to</h2>
 &nbsp;
@@ -45,12 +41,8 @@ and Mern Stack.</li>
 <p align="center">
 <a href="https://codesandbox.io/u/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="AbubakarShf" height="22" width="22" /></a>
 <a href="https://wa.me/923216022930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="AbubakarShf" height="22" width="22" /></a>
-<!-- <a href="https://dev.to/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
-<!-- <a href="https://twitter.com/0x00CCSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
 <a href="https://www.facebook.com/abubakar.jutt.5283/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="AbubakarShf" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/abubakar-shf-57097b181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AbubakarShf" height="22" width="22" /></a>
 <a href="https://stackoverflow.com/users/15432363/abubakar-shafique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="AbubakarShf" height="22" width="22" /></a>
-<!-- <a href="https://www.reddit.com/user/dannychukz15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
-<!-- <a href="https://t.me/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
-<!-- <a href="https://www.instagram.com/abubakar.shf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
+
 </p>
