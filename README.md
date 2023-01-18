@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm AbubakarShf - aka HalfProgrammer😉
+# I'm AbubakarShf - The Code Wizard🧙‍♂️
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=AbubakarShf&theme=react-dark&hide_border=true&area=true)
 
