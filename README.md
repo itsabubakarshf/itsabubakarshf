@@ -28,12 +28,7 @@ My technical focus spans across modern web development stacks, backend architect
 
 I'm currently exploring advanced concepts in serverless architectures and machine learning integration with web applications. Always open to collaboration on innovative projects!
 
-<div align="center">
-    <h3>🎧 Currently Vibing To</h3>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default" alt="Spotify Profile"/>
-    </a>
-</div>
+
 
 <div align="center">
     <p>
