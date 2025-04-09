@@ -1,52 +1,46 @@
-## Hi there 👋
+# AbubakarShf | Full Stack Engineer
 
-# I'm AbubakarShf - HalfProgrammr
-
-## ![](https://activity-graph.herokuapp.com/graph?username=AbubakarShf&theme=react-dark&hide_border=true&area=true)
-
-<!-- --- -->
-
-&nbsp;
-
-<img align="right" src="https://media.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.gif" width="400" height="300"/>
-
-## About
-
-
-I'm AbubakarShf, a driven and self-taught Full Stack web engineer hailing from Pakistan. I am CS graduate from National Textile University. I am a Senior FullStack Web Engineer at [WoitSolutions](https://woitsolutions.com/), where I am constantly pushing the boundaries of my skills and expanding my knowledge in the ever-evolving world of web development.
-<br>
-<br>
-My expertise extends beyond just web development, as I am also well-versed in backend development, DevOps, and frontend development.
-I am a true believer in the power of open-source technology, and I have a deep appreciation for the collaborative spirit and knowledge sharing that it promotes. I have learned a great deal through my involvement in the open-source community and I'm always
-looking for new ways to give back and contribute to this vibrant ecosystem.
-<ul>
-<li>🧐 Learning about serverless architectures, distributed systems, tensorflow 
-and Mern Stack.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/AbubakarShf" target="_blank">Github</a>.</li>
-<li>🔥 2021 Goals: Contribute more to Open Source projects and level up my skills</li>
-<li>👯 I’m looking to collaborate on open source/commercial projects</li>
-<li>🌐 Visit my <a href="https://www.abubakarshf.dev/" target="_blank">porfolio</a> website for complete background and contact.</li>
-<li>💬 Ask me about Web Development</li>
-<li>📫 How to reach me:
-<a href="https://www.facebook.com/abubakar.jutt.5283/">Facebook</a>
-</li>
-<li>🎉 Fun Fact: 我想学中文。</li>
-</ul>
-
-
-<h2 align="center">🎧 I'm currently vibing to</h2>
-&nbsp;
 <div align="center">
-  
+    <img src="https://media.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.gif" width="400" height="300"/>
+</div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&redirect=true)
+## About Me
 
-<div>
-<p align="center">
-<a href="https://codesandbox.io/u/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="AbubakarShf" height="22" width="22" /></a>
-<a href="https://wa.me/923216022930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="AbubakarShf" height="22" width="22" /></a>
-<a href="https://www.facebook.com/abubakar.jutt.5283/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="AbubakarShf" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/abubakar-shf-57097b181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AbubakarShf" height="22" width="22" /></a>
-<a href="https://stackoverflow.com/users/15432363/abubakar-shafique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="AbubakarShf" height="22" width="22" /></a>
+I'm a passionate Full Stack Engineer and Founder of my own agency, specializing in end-to-end web solutions. With a CS degree from National Textile University and experience as a Senior FullStack Engineer at [WoitSolutions](https://woitsolutions.com/), I bring technical expertise and creative problem-solving to every project.
 
-</p>
+My technical focus spans across modern web development stacks, backend architecture, and DevOps practices. I'm an active contributor to open-source projects, constantly learning and sharing knowledge with the global developer community.
+
+## Expertise
+
+- **Full Stack Development**: MERN Stack, Progressive Web Apps, Responsive Design
+- **Backend Systems**: API Design, Microservices, Database Architecture
+- **DevOps**: CI/CD Pipelines, Containerization, Cloud Infrastructure
+- **Emerging Tech**: Serverless Architecture, Distributed Systems, TensorFlow
+
+## Connect With Me
+
+- 🌐 [Portfolio](https://www.abubakarshf.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abubakar-shf-57097b181/)
+- 📝 [Stack Overflow](https://stackoverflow.com/users/15432363/abubakar-shafique)
+- 👨‍💻 [GitHub](https://github.com/AbubakarShf)
+
+## Current Focus
+
+I'm currently exploring advanced concepts in serverless architectures and machine learning integration with web applications. Always open to collaboration on innovative projects!
+
+<div align="center">
+    <h3>🎧 Currently Vibing To</h3>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zyppyukmmmxft960nxzzv1al0&cover_image=true&theme=default" alt="Spotify Profile"/>
+    </a>
+</div>
+
+<div align="center">
+    <p>
+        <a href="https://wa.me/923216022930"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" height="24" width="24" /></a>
+        <a href="https://www.facebook.com/abubakar.jutt.5283/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="24" width="24" /></a>
+        <a href="https://www.linkedin.com/in/abubakar-shf-57097b181/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="24" width="24" /></a>
+        <a href="https://stackoverflow.com/users/15432363/abubakar-shafique"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="24" width="24" /></a>
+    </p>
+    <p>Fun Fact: 我想学中文。</p>
+</div>
